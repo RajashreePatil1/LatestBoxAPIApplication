@@ -1,0 +1,3 @@
+com\persistent\boxpoc\BoxAPIApplication.class
+com\persistent\boxpoc\controller\BoxAPIController.class
+com\persistent\boxpoc\GenericResponse.class
